@@ -1,6 +1,6 @@
 # Game Power Hammer
 
-A streamlined, cross-platform GUI client for the Rust-based Game Development Pipeline Tool, built to simplify environment setup, build management, and source control integration for game developers.
+A streamlined, cross-platform GUI client for the Rust-based Game Power Hammer tool, built to simplify environment setup, build management, and source control integration for game developers.
 
 ## Overview
 
